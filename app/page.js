@@ -283,7 +283,7 @@ export default function HomePage() {
               <ul>
                 <li>07061444050</li>
                 <li>09077640697</li>
-                <li>eefarmandrach@gmail.com</li>
+                <li>eefarmandranch@gmail.com</li>
               </ul>
             </div>
             <div className="footer-col">
